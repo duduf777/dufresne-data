@@ -1,0 +1,18 @@
+{
+  "date_maj": "26/05/2026",
+  "metaux": [
+    {"nom": "Cuivre mêlé", "prix": 8.00, "unite": "kg", "categorie": "kg", "gratuit": false},
+    {"nom": "Laiton sans plastique", "prix": 4.64, "unite": "kg", "categorie": "kg", "gratuit": false},
+    {"nom": "Bronze", "prix": 6.24, "unite": "kg", "categorie": "kg", "gratuit": false},
+    {"nom": "Aluminium mêlé / carter / radiateur", "prix": 1.06, "unite": "kg", "categorie": "kg", "gratuit": false},
+    {"nom": "Inox 18", "prix": 0.82, "unite": "kg", "categorie": "kg", "gratuit": false},
+    {"nom": "Zinc", "prix": 1.60, "unite": "kg", "categorie": "kg", "gratuit": false},
+    {"nom": "Plomb", "prix": 1.04, "unite": "kg", "categorie": "kg", "gratuit": false},
+    {"nom": "Métaux ferreux", "prix": 0.24, "unite": "kg", "categorie": "kg", "gratuit": false},
+    {"nom": "Batterie pleine", "prix": 0.34, "unite": "kg", "categorie": "kg", "gratuit": false},
+    {"nom": "Ferraille / baignoire / insert / radiateur", "prix": 115, "unite": "tonne", "categorie": "tonne", "gratuit": false},
+    {"nom": "Fonte mécanique", "prix": 170, "unite": "tonne", "categorie": "tonne", "gratuit": false},
+    {"nom": "Électroménager ferreux", "prix": 60, "unite": "tonne", "categorie": "tonne", "gratuit": false},
+    {"nom": "Ballon eau chaude / machine à laver", "prix": 0, "unite": "tonne", "categorie": "tonne", "gratuit": true}
+  ]
+}
